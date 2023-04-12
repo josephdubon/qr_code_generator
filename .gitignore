@@ -1,0 +1,49 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.core
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Operating system files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Code editor files
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Generated QR code image
+qr_code.*
+
+# other files
+alchemy_qrcode_generator.py
+alchemybeautystudio_qr.png
+
